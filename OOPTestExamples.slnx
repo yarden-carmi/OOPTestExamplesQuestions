@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="OOPTestExamples/OOPTestExamples.vcxproj" Id="41d6a383-159c-4ee1-bc4c-a1a98377064b" />
+</Solution>

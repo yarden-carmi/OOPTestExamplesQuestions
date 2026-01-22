@@ -1,0 +1,26 @@
+﻿Question Number, Correct Answer
+1, 4
+2, 7
+3, 5
+4, 12
+5, התכנית לא תתקמפל
+6, 1. קטע הקוד לא יתקמפל כי לא מוגדר בנאי ברירת המחדל למחלקת A
+7, 9 כוכביות
+8, 22
+9, 1. התכנית תדפיס stamstam ואז תופיע שגיאה בזמן ריצה
+10, 2. ישנה שגיאה בשורות 2, 4 בלבד
+11, 1. בארבע קריאות
+12, 1. כל התשובות נכונות
+13, 4
+14, "const X& operator=(const X& o) { _x = o._x; return *this; }"
+15, "void main() { X x1, x2; x1=x1; x1.print(); }"
+16, "default constructor, copy constructor, destructor, assignment (=) operator"
+17, "operator A() const { return A(); }"
+18, "1. in class B: friend A operator+(const A& a, const B& b) { return A(); }"
+19, & K
+20, ptr = new A;
+21, 1. לפונקציה func אין גישה(קריאה / כתיבה) למשתנה a1 אך יש גישה למשתנים a2, a3
+22, class B
+23, XYZW
+24, XYYW
+25, Y
