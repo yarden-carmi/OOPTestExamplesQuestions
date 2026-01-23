@@ -18,6 +18,93 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="OOPTestExamples\Bar-Ilan\2021 summer A\solutions.txt" />
+    <Text Include="OOPTestExamples\HIT\2018 a b\solutions.txt" />
+    <Text Include="OOPTestExamples\HIT\2019 a b\solutions.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="OOPTestExamples\Bar-Ilan\2021 summer A\test.pdf" />
+    <None Include="OOPTestExamples\HIT\2018 a b\2018 a b - sol.pdf" />
+    <None Include="OOPTestExamples\HIT\2019 a b\2019 a b - sol.pdf" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="OOPTestExamples\Bar-Ilan\2021 summer A\Questions\Question01.cpp" />
+    <ClCompile Include="OOPTestExamples\Bar-Ilan\2021 summer A\Questions\Question02.cpp" />
+    <ClCompile Include="OOPTestExamples\Bar-Ilan\2021 summer A\Questions\Question03.cpp" />
+    <ClCompile Include="OOPTestExamples\Bar-Ilan\2021 summer A\Questions\Question04.cpp" />
+    <ClCompile Include="OOPTestExamples\Bar-Ilan\2021 summer A\Questions\Question05.cpp" />
+    <ClCompile Include="OOPTestExamples\Bar-Ilan\2021 summer A\Questions\Question06.cpp" />
+    <ClCompile Include="OOPTestExamples\Bar-Ilan\2021 summer A\Questions\Question07.cpp" />
+    <ClCompile Include="OOPTestExamples\Bar-Ilan\2021 summer A\Questions\Question08.cpp" />
+    <ClCompile Include="OOPTestExamples\Bar-Ilan\2021 summer A\Questions\Question09.cpp" />
+    <ClCompile Include="OOPTestExamples\Bar-Ilan\2021 summer A\Questions\Question10.cpp" />
+    <ClCompile Include="OOPTestExamples\Bar-Ilan\2021 summer A\Questions\Question11.cpp" />
+    <ClCompile Include="OOPTestExamples\Bar-Ilan\2021 summer A\Questions\Question12.cpp" />
+    <ClCompile Include="OOPTestExamples\Bar-Ilan\2021 summer A\Questions\Question13.cpp" />
+    <ClCompile Include="OOPTestExamples\Bar-Ilan\2021 summer A\Questions\Question14.cpp" />
+    <ClCompile Include="OOPTestExamples\Bar-Ilan\2021 summer A\Questions\Question15.cpp" />
+    <ClCompile Include="OOPTestExamples\Bar-Ilan\2021 summer A\Questions\Question16.cpp" />
+    <ClCompile Include="OOPTestExamples\Bar-Ilan\2021 summer A\Questions\Question17.cpp" />
+    <ClCompile Include="OOPTestExamples\Bar-Ilan\2021 summer A\Questions\Question18.cpp" />
+    <ClCompile Include="OOPTestExamples\Bar-Ilan\2021 summer A\Questions\Question19.cpp" />
+    <ClCompile Include="OOPTestExamples\Bar-Ilan\2021 summer A\Questions\Question20.cpp" />
+    <ClCompile Include="OOPTestExamples\Bar-Ilan\2021 summer A\Questions\Question21.cpp" />
+    <ClCompile Include="OOPTestExamples\Bar-Ilan\2021 summer A\Questions\Question22.cpp" />
+    <ClCompile Include="OOPTestExamples\Bar-Ilan\2021 summer A\Questions\Question23.cpp" />
+    <ClCompile Include="OOPTestExamples\Bar-Ilan\2021 summer A\Questions\Question24.cpp" />
+    <ClCompile Include="OOPTestExamples\Bar-Ilan\2021 summer A\Questions\Question25.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2018 a b\Questions\Question01.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2018 a b\Questions\Question02.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2018 a b\Questions\Question03.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2018 a b\Questions\Question04.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2018 a b\Questions\Question05.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2018 a b\Questions\Question06.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2018 a b\Questions\Question07.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2018 a b\Questions\Question08.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2018 a b\Questions\Question09.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2018 a b\Questions\Question10.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2018 a b\Questions\Question11.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2018 a b\Questions\Question12.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2018 a b\Questions\Question13.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2018 a b\Questions\Question14.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2018 a b\Questions\Question15.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2018 a b\Questions\Question16.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2018 a b\Questions\Question17.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2018 a b\Questions\Question18.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2018 a b\Questions\Question19.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2018 a b\Questions\Question20.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2018 a b\Questions\Question21.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2018 a b\Questions\Question22.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2018 a b\Questions\Question23.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2018 a b\Questions\Question24.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2018 a b\Questions\Question25.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2019 a b\Questions\Question01.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2019 a b\Questions\Question02.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2019 a b\Questions\Question03.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2019 a b\Questions\Question04.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2019 a b\Questions\Question05.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2019 a b\Questions\Question06.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2019 a b\Questions\Question07.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2019 a b\Questions\Question08.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2019 a b\Questions\Question09.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2019 a b\Questions\Question10.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2019 a b\Questions\Question11.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2019 a b\Questions\Question12.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2019 a b\Questions\Question13.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2019 a b\Questions\Question14.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2019 a b\Questions\Question15.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2019 a b\Questions\Question16.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2019 a b\Questions\Question17.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2019 a b\Questions\Question18.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2019 a b\Questions\Question19.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2019 a b\Questions\Question20.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2019 a b\Questions\Question21.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2019 a b\Questions\Question22.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2019 a b\Questions\Question23.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2019 a b\Questions\Question24.cpp" />
+    <ClCompile Include="OOPTestExamples\HIT\2019 a b\Questions\Question25.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
