@@ -127,31 +127,31 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="OOPTestExamples\additional questions\nir\Questions\Question01.cpp" />
-    <ClCompile Include="OOPTestExamples\additional questions\nir\Questions\Question02.cpp" />
-    <ClCompile Include="OOPTestExamples\additional questions\nir\Questions\Question03.cpp" />
-    <ClCompile Include="OOPTestExamples\additional questions\nir\Questions\Question04.cpp" />
-    <ClCompile Include="OOPTestExamples\additional questions\nir\Questions\Question05.cpp" />
-    <ClCompile Include="OOPTestExamples\additional questions\nir\Questions\Question06.cpp" />
-    <ClCompile Include="OOPTestExamples\additional questions\nir\Questions\Question07.cpp" />
-    <ClCompile Include="OOPTestExamples\additional questions\nir\Questions\Question08.cpp" />
-    <ClCompile Include="OOPTestExamples\additional questions\nir\Questions\Question09.cpp" />
-    <ClCompile Include="OOPTestExamples\additional questions\nir\Questions\Question10.cpp" />
-    <ClCompile Include="OOPTestExamples\additional questions\nir\Questions\Question11.cpp" />
-    <ClCompile Include="OOPTestExamples\additional questions\nir\Questions\Question12.cpp" />
-    <ClCompile Include="OOPTestExamples\additional questions\nir\Questions\Question13.cpp" />
-    <ClCompile Include="OOPTestExamples\additional questions\nir\Questions\Question14.cpp" />
-    <ClCompile Include="OOPTestExamples\additional questions\nir\Questions\Question15.cpp" />
-    <ClCompile Include="OOPTestExamples\additional questions\nir\Questions\Question16.cpp" />
-    <ClCompile Include="OOPTestExamples\additional questions\nir\Questions\Question17.cpp" />
-    <ClCompile Include="OOPTestExamples\additional questions\nir\Questions\Question18.cpp" />
-    <ClCompile Include="OOPTestExamples\additional questions\nir\Questions\Question19.cpp" />
-    <ClCompile Include="OOPTestExamples\additional questions\nir\Questions\Question20.cpp" />
-    <ClCompile Include="OOPTestExamples\additional questions\nir\Questions\Question21.cpp" />
-    <ClCompile Include="OOPTestExamples\additional questions\nir\Questions\Question22.cpp" />
-    <ClCompile Include="OOPTestExamples\additional questions\nir\Questions\Question23.cpp" />
-    <ClCompile Include="OOPTestExamples\additional questions\nir\Questions\Question24.cpp" />
-    <ClCompile Include="OOPTestExamples\additional questions\nir\Questions\Question25.cpp" />
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2018B\Questions\Question01.cpp" />
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2018B\Questions\Question02.cpp" />
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2018B\Questions\Question03.cpp" />
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2018B\Questions\Question04.cpp" />
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2018B\Questions\Question05.cpp" />
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2018B\Questions\Question06.cpp" />
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2018B\Questions\Question07.cpp" />
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2018B\Questions\Question08.cpp" />
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2018B\Questions\Question09.cpp" />
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2018B\Questions\Question10.cpp" />
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2018B\Questions\Question11.cpp" />
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2018B\Questions\Question12.cpp" />
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2018B\Questions\Question13.cpp" />
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2018B\Questions\Question14.cpp" />
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2018B\Questions\Question15.cpp" />
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2018B\Questions\Question16.cpp" />
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2018B\Questions\Question17.cpp" />
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2018B\Questions\Question18.cpp" />
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2018B\Questions\Question19.cpp" />
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2018B\Questions\Question20.cpp" />
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2018B\Questions\Question21.cpp" />
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2018B\Questions\Question22.cpp" />
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2018B\Questions\Question23.cpp" />
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2018B\Questions\Question24.cpp" />
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2018B\Questions\Question25.cpp" />
     <ClCompile Include="OOPTestExamples\exampleTest\Questions\Question01.cpp" />
     <ClCompile Include="OOPTestExamples\exampleTest\Questions\Question02.cpp" />
     <ClCompile Include="OOPTestExamples\exampleTest\Questions\Question03.cpp" />
@@ -179,10 +179,12 @@
     <ClCompile Include="OOPTestExamples\exampleTest\Questions\Question25.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="OOPTestExamples\additional questions\nir\2018 b.docx" />
+    <None Include="D:\Libraries\Downloads\2019 B נקי.md" />
+    <None Include="OOPTestExamples\additional questions\nir\2018B\2018 b.docx" />
     <None Include="OOPTestExamples\exampleTest\exampletest.pdf" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="OOPTestExamples\additional questions\nir\2018B\solutions.txt" />
     <Text Include="OOPTestExamples\exampleTest\solutions.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
