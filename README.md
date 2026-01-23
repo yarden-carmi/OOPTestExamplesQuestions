@@ -87,3 +87,11 @@
 - [Question 23](./Default/OOPTestExamples/HIT/2019%20a%20b/Questions/Question23.cpp)
 - [Question 24](./Default/OOPTestExamples/HIT/2019%20a%20b/Questions/Question24.cpp)
 - [Question 25](./Default/OOPTestExamples/HIT/2019%20a%20b/Questions/Question25.cpp)
+
+## Gemini
+
+- [Question 01](./Default/OOPTestExamples/Gemini/Question01.cpp)
+- [Question 02](./Default/OOPTestExamples/Gemini/Question02.cpp)
+- [Question 03](./Default/OOPTestExamples/Gemini/Question03.cpp)
+- [Question 04](./Default/OOPTestExamples/Gemini/Question04.cpp)
+- [Question 05](./Default/OOPTestExamples/Gemini/Question05.cpp)
