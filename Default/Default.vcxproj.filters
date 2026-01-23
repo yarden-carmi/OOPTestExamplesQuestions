@@ -28,6 +28,9 @@
     <Filter Include="Source Files\HIT\2019 a b">
       <UniqueIdentifier>{e6ead7b8-6d11-4209-bdce-1f70adf18432}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Gemini">
+      <UniqueIdentifier>{33d1f9d4-21ec-4617-b530-91b98e3c64c0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="OOPTestExamples\Bar-Ilan\2021 summer A\solutions.txt">
@@ -38,6 +41,9 @@
     </Text>
     <Text Include="OOPTestExamples\HIT\2019 a b\solutions.txt">
       <Filter>Source Files\HIT\2019 a b</Filter>
+    </Text>
+    <Text Include="OOPTestExamples\Gemini\solutions.txt">
+      <Filter>Source Files\Gemini</Filter>
     </Text>
   </ItemGroup>
   <ItemGroup>
@@ -276,6 +282,21 @@
     </ClCompile>
     <ClCompile Include="OOPTestExamples\HIT\2019 a b\Questions\Question25.cpp">
       <Filter>Source Files\HIT\2019 a b</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\Gemini\Question01.cpp">
+      <Filter>Source Files\Gemini</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\Gemini\Question02.cpp">
+      <Filter>Source Files\Gemini</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\Gemini\Question03.cpp">
+      <Filter>Source Files\Gemini</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\Gemini\Question04.cpp">
+      <Filter>Source Files\Gemini</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\Gemini\Question05.cpp">
+      <Filter>Source Files\Gemini</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

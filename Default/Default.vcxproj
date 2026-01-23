@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="OOPTestExamples\Bar-Ilan\2021 summer A\solutions.txt" />
+    <Text Include="OOPTestExamples\Gemini\solutions.txt" />
     <Text Include="OOPTestExamples\HIT\2018 a b\solutions.txt" />
     <Text Include="OOPTestExamples\HIT\2019 a b\solutions.txt" />
   </ItemGroup>
@@ -54,6 +55,11 @@
     <ClCompile Include="OOPTestExamples\Bar-Ilan\2021 summer A\Questions\Question23.cpp" />
     <ClCompile Include="OOPTestExamples\Bar-Ilan\2021 summer A\Questions\Question24.cpp" />
     <ClCompile Include="OOPTestExamples\Bar-Ilan\2021 summer A\Questions\Question25.cpp" />
+    <ClCompile Include="OOPTestExamples\Gemini\Question01.cpp" />
+    <ClCompile Include="OOPTestExamples\Gemini\Question02.cpp" />
+    <ClCompile Include="OOPTestExamples\Gemini\Question03.cpp" />
+    <ClCompile Include="OOPTestExamples\Gemini\Question04.cpp" />
+    <ClCompile Include="OOPTestExamples\Gemini\Question05.cpp" />
     <ClCompile Include="OOPTestExamples\HIT\2018 a b\Questions\Question01.cpp" />
     <ClCompile Include="OOPTestExamples\HIT\2018 a b\Questions\Question02.cpp" />
     <ClCompile Include="OOPTestExamples\HIT\2018 a b\Questions\Question03.cpp" />
