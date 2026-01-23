@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\ExampleTest">
+      <UniqueIdentifier>{2b4fddf5-e637-496c-9c63-44e7f9a667ac}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="OOPTestExamples\exampleTest\Questions\Question01.cpp">
+      <Filter>Source Files\ExampleTest</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\exampleTest\Questions\Question02.cpp">
+      <Filter>Source Files\ExampleTest</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\exampleTest\Questions\Question03.cpp">
+      <Filter>Source Files\ExampleTest</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\exampleTest\Questions\Question04.cpp">
+      <Filter>Source Files\ExampleTest</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\exampleTest\Questions\Question05.cpp">
+      <Filter>Source Files\ExampleTest</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\exampleTest\Questions\Question06.cpp">
+      <Filter>Source Files\ExampleTest</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\exampleTest\Questions\Question07.cpp">
+      <Filter>Source Files\ExampleTest</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\exampleTest\Questions\Question08.cpp">
+      <Filter>Source Files\ExampleTest</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\exampleTest\Questions\Question09.cpp">
+      <Filter>Source Files\ExampleTest</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\exampleTest\Questions\Question10.cpp">
+      <Filter>Source Files\ExampleTest</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\exampleTest\Questions\Question11.cpp">
+      <Filter>Source Files\ExampleTest</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\exampleTest\Questions\Question12.cpp">
+      <Filter>Source Files\ExampleTest</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\exampleTest\Questions\Question13.cpp">
+      <Filter>Source Files\ExampleTest</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\exampleTest\Questions\Question14.cpp">
+      <Filter>Source Files\ExampleTest</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\exampleTest\Questions\Question15.cpp">
+      <Filter>Source Files\ExampleTest</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\exampleTest\Questions\Question16.cpp">
+      <Filter>Source Files\ExampleTest</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\exampleTest\Questions\Question17.cpp">
+      <Filter>Source Files\ExampleTest</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\exampleTest\Questions\Question18.cpp">
+      <Filter>Source Files\ExampleTest</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\exampleTest\Questions\Question19.cpp">
+      <Filter>Source Files\ExampleTest</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\exampleTest\Questions\Question20.cpp">
+      <Filter>Source Files\ExampleTest</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\exampleTest\Questions\Question21.cpp">
+      <Filter>Source Files\ExampleTest</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\exampleTest\Questions\Question22.cpp">
+      <Filter>Source Files\ExampleTest</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\exampleTest\Questions\Question23.cpp">
+      <Filter>Source Files\ExampleTest</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\exampleTest\Questions\Question24.cpp">
+      <Filter>Source Files\ExampleTest</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\exampleTest\Questions\Question25.cpp">
+      <Filter>Source Files\ExampleTest</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="OOPTestExamples\exampleTest\exampletest.pdf">
+      <Filter>Source Files\ExampleTest</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="OOPTestExamples\exampleTest\solutions.txt">
+      <Filter>Source Files\ExampleTest</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

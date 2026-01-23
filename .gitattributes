@@ -1,5 +1,6 @@
 # Disable auto line ending conversion
 * -text
 
-# Treat cpp files as binary to preserve Hebrew encoding exactly
-*.cpp binary
+# Treat cpp files as text to allow diffs and display (UTF-8 BOM ensures Hebrew preservation)
+*.cpp text
+
