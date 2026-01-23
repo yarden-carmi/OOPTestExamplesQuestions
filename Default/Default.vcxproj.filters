@@ -22,6 +22,9 @@
     <Filter Include="Source Files\Nir\2018 b">
       <UniqueIdentifier>{364f6304-dce3-4d11-ba66-56ed7f15821b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Nir\2019 b">
+      <UniqueIdentifier>{e6ead7b8-6d11-4209-bdce-1f70adf18432}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="OOPTestExamples\exampleTest\Questions\Question01.cpp">
@@ -174,16 +177,91 @@
     <ClCompile Include="OOPTestExamples\additional questions\nir\2018B\Questions\Question25.cpp">
       <Filter>Source Files\Nir\2018 b</Filter>
     </ClCompile>
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2019 B\Questions\Question25.cpp">
+      <Filter>Source Files\Nir\2019 b</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2019 B\Questions\Question01.cpp">
+      <Filter>Source Files\Nir\2019 b</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2019 B\Questions\Question02.cpp">
+      <Filter>Source Files\Nir\2019 b</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2019 B\Questions\Question03.cpp">
+      <Filter>Source Files\Nir\2019 b</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2019 B\Questions\Question04.cpp">
+      <Filter>Source Files\Nir\2019 b</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2019 B\Questions\Question05.cpp">
+      <Filter>Source Files\Nir\2019 b</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2019 B\Questions\Question06.cpp">
+      <Filter>Source Files\Nir\2019 b</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2019 B\Questions\Question07.cpp">
+      <Filter>Source Files\Nir\2019 b</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2019 B\Questions\Question08.cpp">
+      <Filter>Source Files\Nir\2019 b</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2019 B\Questions\Question09.cpp">
+      <Filter>Source Files\Nir\2019 b</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2019 B\Questions\Question10.cpp">
+      <Filter>Source Files\Nir\2019 b</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2019 B\Questions\Question11.cpp">
+      <Filter>Source Files\Nir\2019 b</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2019 B\Questions\Question12.cpp">
+      <Filter>Source Files\Nir\2019 b</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2019 B\Questions\Question13.cpp">
+      <Filter>Source Files\Nir\2019 b</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2019 B\Questions\Question14.cpp">
+      <Filter>Source Files\Nir\2019 b</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2019 B\Questions\Question15.cpp">
+      <Filter>Source Files\Nir\2019 b</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2019 B\Questions\Question16.cpp">
+      <Filter>Source Files\Nir\2019 b</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2019 B\Questions\Question17.cpp">
+      <Filter>Source Files\Nir\2019 b</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2019 B\Questions\Question18.cpp">
+      <Filter>Source Files\Nir\2019 b</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2019 B\Questions\Question19.cpp">
+      <Filter>Source Files\Nir\2019 b</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2019 B\Questions\Question20.cpp">
+      <Filter>Source Files\Nir\2019 b</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2019 B\Questions\Question21.cpp">
+      <Filter>Source Files\Nir\2019 b</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2019 B\Questions\Question22.cpp">
+      <Filter>Source Files\Nir\2019 b</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2019 B\Questions\Question23.cpp">
+      <Filter>Source Files\Nir\2019 b</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\additional questions\nir\2019 B\Questions\Question24.cpp">
+      <Filter>Source Files\Nir\2019 b</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="OOPTestExamples\exampleTest\exampletest.pdf">
       <Filter>Source Files\ExampleTest</Filter>
     </None>
-    <None Include="D:\Libraries\Downloads\2019 B נקי.md">
-      <Filter>Resource Files</Filter>
-    </None>
     <None Include="OOPTestExamples\additional questions\nir\2018B\2018 b.docx">
       <Filter>Source Files\Nir\2018 b</Filter>
+    </None>
+    <None Include="OOPTestExamples\additional questions\nir\2019 B\2019 B נקי.docx">
+      <Filter>Source Files\Nir\2019 b</Filter>
     </None>
   </ItemGroup>
   <ItemGroup>
@@ -192,6 +270,9 @@
     </Text>
     <Text Include="OOPTestExamples\additional questions\nir\2018B\solutions.txt">
       <Filter>Source Files\Nir\2018 b</Filter>
+    </Text>
+    <Text Include="OOPTestExamples\additional questions\nir\2019 B\solutions.txt">
+      <Filter>Source Files\Nir\2019 b</Filter>
     </Text>
   </ItemGroup>
 </Project>
