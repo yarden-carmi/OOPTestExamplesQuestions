@@ -2,18 +2,28 @@
 // מה מדפיסה התכנית?
 
 #include <iostream>
+
 class A {
 public:
-virtual void f() { std::cout << "A"; }
+    virtual void f() {
+        std::cout << "A";
+    }
 };
+
 class B : public A {
 public:
-void f() { std::cout << "B"; }
+    void f() {
+        std::cout << "B";
+    }
 };
-void g(A a) { a.f(); }
+
+void g(A a) {
+    a.f();
+}
+
 int main() {
-B b;
-g(b);
+    B b;
+    g(b);
 }
 
 /*

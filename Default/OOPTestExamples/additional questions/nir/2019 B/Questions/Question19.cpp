@@ -3,13 +3,14 @@
 
 class A {};
 class B : public A {};
+
 void main() {
-A a, *p;
-B b, *q;
-p = &b;
-q = &a;
-a = b;
-b = a;
+    A a, *p;
+    B b, *q;
+    p = &b;
+    q = &a;
+    a = b;
+    b = a;
 }
 
 /*

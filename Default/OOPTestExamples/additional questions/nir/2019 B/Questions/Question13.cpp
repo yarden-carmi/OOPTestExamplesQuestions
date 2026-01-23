@@ -2,8 +2,10 @@
 // מה ניתן לכתוב כך שהקוד יעבור קומפילציה
 
 class A {
-int K ;
-const int* f(const int *k) const { return _____; }
+    int K;
+    const int* f(const int *k) const {
+        return _____;
+    }
 };
 
 /*

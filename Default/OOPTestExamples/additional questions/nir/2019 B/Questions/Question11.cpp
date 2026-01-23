@@ -1,9 +1,17 @@
 ﻿// שאלה 11
 // אילו שורות בתכנית הבאה גורמות לשגיאת קומפילציה?
 
-class A { public: int I;};
-class B : protected A { private: int J;};
-void main () {
+class A {
+public:
+    int I;
+};
+
+class B : protected A {
+private:
+    int J;
+};
+
+void main() {
     A t;
     B tt;
     t.I = 3;

@@ -3,20 +3,27 @@
 
 #include <iostream>
 using namespace std;
+
 class X {
 public:
-X(int i = 0) : nx(i) { cout << 1; }
-int nx;
+    X(int i = 0) : nx(i) {
+        cout << 1;
+    }
+    int nx;
 };
+
 class Y {
 public:
-Y(int i = 0) : ny(i) { onx=X(i); }
-int ny;
-X onx;
+    Y(int i = 0) : ny(i) {
+        onx = X(i);
+    }
+    int ny;
+    X onx;
 };
+
 int main() {
-Y y1(2);
-y1.onx.nx = 3;
+    Y y1(2);
+    y1.onx.nx = 3;
 }
 
 /*

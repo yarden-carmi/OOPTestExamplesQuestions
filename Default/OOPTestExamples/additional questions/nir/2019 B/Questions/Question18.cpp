@@ -2,8 +2,10 @@
 // כמה שורות בקטע תכנית לא עוברות קומפילציה?
 
 void main() {
-    int a = 42, *p;
-    const int b = 24, *q;
+    int a = 42;
+    int *p;
+    const int b = 24;
+    const int *q;
     p = &a;
     p = &b;
     q = &a;

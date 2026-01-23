@@ -3,23 +3,30 @@
 
 #include <iostream>
 using namespace std;
+
 class X {
 public:
-X(int i = 0) { nx = i; }
-virtual void f() = 0;
-int nx;
+    X(int i = 0) {
+        nx = i;
+    }
+    virtual void f() = 0;
+    int nx;
 };
+
 class Y : public X {
 public:
-Y(int i = 0, int j=0) : X(i), ny(j) { }
-virtual void f() { cout << "Y" << ny; }
-int ny;
+    Y(int i = 0, int j = 0) : X(i), ny(j) { }
+    virtual void f() {
+        cout << "Y" << ny;
+    }
+    int ny;
 };
+
 int main() {
-X *x[2];
-x[0] = new X(1);
-x[1] = new Y(2, 3);
-X x2(2);
+    X *x[2];
+    x[0] = new X(1);
+    x[1] = new Y(2, 3);
+    X x2(2);
 }
 
 /*

@@ -2,24 +2,39 @@
 // מה מדפיסה התכנית הבאה?
 
 #include <iostream>
+
 class A {
 public:
-A(int) {std::cout << " A int ";}
-A() {std::cout << "A empty ";}
-~A() {std::cout << " destroy A";}
+    A(int) {
+        std::cout << " A int ";
+    }
+    A() {
+        std::cout << "A empty ";
+    }
+    ~A() {
+        std::cout << " destroy A";
+    }
 };
-class B : public A{
+
+class B : public A {
 public:
-B(int) {std::cout << "B int ";}
-B() {std::cout << "B empty ";}
-~B() {std::cout << " destroy B";}
+    B(int) {
+        std::cout << "B int ";
+    }
+    B() {
+        std::cout << "B empty ";
+    }
+    ~B() {
+        std::cout << " destroy B";
+    }
 };
+
 void main() {
-B *b;
-A a(3);
-b = new B();
-A *ap=b;
-delete ap;
+    B *b;
+    A a(3);
+    b = new B();
+    A *ap = b;
+    delete ap;
 }
 
 /*

@@ -5,10 +5,21 @@
 // קומפילציה באחד מהקטעים המושמטים. מה נכון לגבי הימצאות השורה שגורמת לשגיאת
 // קומפילציה?
 
-class A {...};
-class B : public A {... I ...};
-class C : public B {... II ...};
-void main() { ... III ... }
+class A {
+    ...
+};
+
+class B : public A {
+    ... I ...
+};
+
+class C : public B {
+    ... II ...
+};
+
+void main() {
+    ... III ...
+}
 
 /*
 (א) היא יכולה להימצא בקטע I

@@ -2,9 +2,20 @@
 // מה מדפיסה התוכנית
 
 #include <iostream>
-int f(char c, int i) {return i++;}
-int &f(int &i, char c) {return ++i;}
-void main() {int x=4; std::cout << f(x,'x'); std::cout<< f('x',x); }
+
+int f(char c, int i) {
+    return i++;
+}
+
+int &f(int &i, char c) {
+    return ++i;
+}
+
+void main() {
+    int x = 4;
+    std::cout << f(x, 'x');
+    std::cout << f('x', x);
+}
 
 /*
 (א) התכנית לא עוברת קומפילציה

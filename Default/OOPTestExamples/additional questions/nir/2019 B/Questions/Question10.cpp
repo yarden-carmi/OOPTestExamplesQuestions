@@ -2,7 +2,10 @@
 // נתונות הגדרות של 5 רשומות:
 // כמה שדות מטיפוס int קיימים באובייקט מטיפוס E?
 
-struct A { int x; };
+struct A {
+    int x;
+};
+
 struct B : virtual A {};
 struct C : virtual A {};
 struct D : A {};

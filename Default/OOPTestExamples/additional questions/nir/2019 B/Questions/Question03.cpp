@@ -3,11 +3,18 @@
 
 #include <iostream>
 using namespace std;
-void f(int i, double j) { cout << i << j << endl; }
-void f(double i, int j) { cout << j << i << endl; }
+
+void f(int i, double j) {
+    cout << i << j << endl;
+}
+
+void f(double i, int j) {
+    cout << j << i << endl;
+}
+
 void main() {
-int i = 1, j = 2;
-f(i, j);
+    int i = 1, j = 2;
+    f(i, j);
 }
 
 /*
