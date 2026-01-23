@@ -31,6 +31,12 @@
     <Filter Include="Source Files\Gemini">
       <UniqueIdentifier>{33d1f9d4-21ec-4617-b530-91b98e3c64c0}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\GeeksForGeeks">
+      <UniqueIdentifier>{80719ff2-f40b-42ac-ae0e-38eedf80a39d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GeeksForGeeks\operator-overloading-gq">
+      <UniqueIdentifier>{db7881b1-cab9-4f58-9ea6-99bd32813df6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="OOPTestExamples\Bar-Ilan\2021 summer A\solutions.txt">
@@ -44,6 +50,9 @@
     </Text>
     <Text Include="OOPTestExamples\Gemini\solutions.txt">
       <Filter>Source Files\Gemini</Filter>
+    </Text>
+    <Text Include="OOPTestExamples\GeeksForGeeks\operator-overloading-gq\solutions.txt">
+      <Filter>Source Files\GeeksForGeeks\operator-overloading-gq</Filter>
     </Text>
   </ItemGroup>
   <ItemGroup>
@@ -297,6 +306,36 @@
     </ClCompile>
     <ClCompile Include="OOPTestExamples\Gemini\Question05.cpp">
       <Filter>Source Files\Gemini</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\GeeksForGeeks\operator-overloading-gq\Questions\Question01.cpp">
+      <Filter>Source Files\GeeksForGeeks\operator-overloading-gq</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\GeeksForGeeks\operator-overloading-gq\Questions\Question02.cpp">
+      <Filter>Source Files\GeeksForGeeks\operator-overloading-gq</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\GeeksForGeeks\operator-overloading-gq\Questions\Question03.cpp">
+      <Filter>Source Files\GeeksForGeeks\operator-overloading-gq</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\GeeksForGeeks\operator-overloading-gq\Questions\Question04.cpp">
+      <Filter>Source Files\GeeksForGeeks\operator-overloading-gq</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\GeeksForGeeks\operator-overloading-gq\Questions\Question05.cpp">
+      <Filter>Source Files\GeeksForGeeks\operator-overloading-gq</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\GeeksForGeeks\operator-overloading-gq\Questions\Question06.cpp">
+      <Filter>Source Files\GeeksForGeeks\operator-overloading-gq</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\GeeksForGeeks\operator-overloading-gq\Questions\Question07.cpp">
+      <Filter>Source Files\GeeksForGeeks\operator-overloading-gq</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\GeeksForGeeks\operator-overloading-gq\Questions\Question08.cpp">
+      <Filter>Source Files\GeeksForGeeks\operator-overloading-gq</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\GeeksForGeeks\operator-overloading-gq\Questions\Question09.cpp">
+      <Filter>Source Files\GeeksForGeeks\operator-overloading-gq</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPTestExamples\GeeksForGeeks\operator-overloading-gq\Questions\Question10.cpp">
+      <Filter>Source Files\GeeksForGeeks\operator-overloading-gq</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

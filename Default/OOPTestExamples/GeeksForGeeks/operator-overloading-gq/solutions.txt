@@ -1,0 +1,15 @@
+1, By making an empty private new and new[] operators
+2, Only 2
+3, Insertion Operator <<
+4, Function Overloading
+5, 
+new called
+Constructor called
+delete called
+Destructor called
+6, x = 3, y = 2
+7, All of the above
+8, All of the above
+9, Compiler Error: Ambiguous call to fun()
+10, 10
+20

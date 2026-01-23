@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="OOPTestExamples\Bar-Ilan\2021 summer A\solutions.txt" />
+    <Text Include="OOPTestExamples\GeeksForGeeks\operator-overloading-gq\solutions.txt" />
     <Text Include="OOPTestExamples\Gemini\solutions.txt" />
     <Text Include="OOPTestExamples\HIT\2018 a b\solutions.txt" />
     <Text Include="OOPTestExamples\HIT\2019 a b\solutions.txt" />
@@ -55,6 +56,16 @@
     <ClCompile Include="OOPTestExamples\Bar-Ilan\2021 summer A\Questions\Question23.cpp" />
     <ClCompile Include="OOPTestExamples\Bar-Ilan\2021 summer A\Questions\Question24.cpp" />
     <ClCompile Include="OOPTestExamples\Bar-Ilan\2021 summer A\Questions\Question25.cpp" />
+    <ClCompile Include="OOPTestExamples\GeeksForGeeks\operator-overloading-gq\Questions\Question01.cpp" />
+    <ClCompile Include="OOPTestExamples\GeeksForGeeks\operator-overloading-gq\Questions\Question02.cpp" />
+    <ClCompile Include="OOPTestExamples\GeeksForGeeks\operator-overloading-gq\Questions\Question03.cpp" />
+    <ClCompile Include="OOPTestExamples\GeeksForGeeks\operator-overloading-gq\Questions\Question04.cpp" />
+    <ClCompile Include="OOPTestExamples\GeeksForGeeks\operator-overloading-gq\Questions\Question05.cpp" />
+    <ClCompile Include="OOPTestExamples\GeeksForGeeks\operator-overloading-gq\Questions\Question06.cpp" />
+    <ClCompile Include="OOPTestExamples\GeeksForGeeks\operator-overloading-gq\Questions\Question07.cpp" />
+    <ClCompile Include="OOPTestExamples\GeeksForGeeks\operator-overloading-gq\Questions\Question08.cpp" />
+    <ClCompile Include="OOPTestExamples\GeeksForGeeks\operator-overloading-gq\Questions\Question09.cpp" />
+    <ClCompile Include="OOPTestExamples\GeeksForGeeks\operator-overloading-gq\Questions\Question10.cpp" />
     <ClCompile Include="OOPTestExamples\Gemini\Question01.cpp" />
     <ClCompile Include="OOPTestExamples\Gemini\Question02.cpp" />
     <ClCompile Include="OOPTestExamples\Gemini\Question03.cpp" />

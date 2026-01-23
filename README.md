@@ -29,6 +29,7 @@
 - [Question 23](./Default/OOPTestExamples/Bar-Ilan/2021%20summer%20A/Questions/Question23.cpp)
 - [Question 24](./Default/OOPTestExamples/Bar-Ilan/2021%20summer%20A/Questions/Question24.cpp)
 - [Question 25](./Default/OOPTestExamples/Bar-Ilan/2021%20summer%20A/Questions/Question25.cpp)
+- [Solutions](./Default/OOPTestExamples/Bar-Ilan/2021%20summer%20A/solutions.txt)
 
 ## HIT
 
@@ -59,6 +60,7 @@
 - [Question 23](./Default/OOPTestExamples/HIT/2018%20a%20b/Questions/Question23.cpp)
 - [Question 24](./Default/OOPTestExamples/HIT/2018%20a%20b/Questions/Question24.cpp)
 - [Question 25](./Default/OOPTestExamples/HIT/2018%20a%20b/Questions/Question25.cpp)
+- [Solutions](./Default/OOPTestExamples/HIT/2018%20a%20b/solutions.txt)
 
 ### 2019 A B
 
@@ -87,6 +89,7 @@
 - [Question 23](./Default/OOPTestExamples/HIT/2019%20a%20b/Questions/Question23.cpp)
 - [Question 24](./Default/OOPTestExamples/HIT/2019%20a%20b/Questions/Question24.cpp)
 - [Question 25](./Default/OOPTestExamples/HIT/2019%20a%20b/Questions/Question25.cpp)
+- [Solutions](./Default/OOPTestExamples/HIT/2019%20a%20b/solutions.txt)
 
 ## Gemini
 
@@ -95,3 +98,20 @@
 - [Question 03](./Default/OOPTestExamples/Gemini/Question03.cpp)
 - [Question 04](./Default/OOPTestExamples/Gemini/Question04.cpp)
 - [Question 05](./Default/OOPTestExamples/Gemini/Question05.cpp)
+- [Solutions](./Default/OOPTestExamples/Gemini/solutions.txt)
+
+## GeeksForGeeks
+
+### operator-overloading-gq
+
+- [Question 01](./Default/OOPTestExamples/GeeksForGeeks/operator-overloading-gq/Questions/Question01.cpp)
+- [Question 02](./Default/OOPTestExamples/GeeksForGeeks/operator-overloading-gq/Questions/Question02.cpp)
+- [Question 03](./Default/OOPTestExamples/GeeksForGeeks/operator-overloading-gq/Questions/Question03.cpp)
+- [Question 04](./Default/OOPTestExamples/GeeksForGeeks/operator-overloading-gq/Questions/Question04.cpp)
+- [Question 05](./Default/OOPTestExamples/GeeksForGeeks/operator-overloading-gq/Questions/Question05.cpp)
+- [Question 06](./Default/OOPTestExamples/GeeksForGeeks/operator-overloading-gq/Questions/Question06.cpp)
+- [Question 07](./Default/OOPTestExamples/GeeksForGeeks/operator-overloading-gq/Questions/Question07.cpp)
+- [Question 08](./Default/OOPTestExamples/GeeksForGeeks/operator-overloading-gq/Questions/Question08.cpp)
+- [Question 09](./Default/OOPTestExamples/GeeksForGeeks/operator-overloading-gq/Questions/Question09.cpp)
+- [Question 10](./Default/OOPTestExamples/GeeksForGeeks/operator-overloading-gq/Questions/Question10.cpp)
+- [Solutions](./Default/OOPTestExamples/GeeksForGeeks/operator-overloading-gq/solutions.txt)
